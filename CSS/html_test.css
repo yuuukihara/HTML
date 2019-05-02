@@ -90,3 +90,45 @@ a{
 h1 a{
     color:white;
 }
+
+.aside h2{
+    font-size:90%;
+    margin-top:5px;
+}
+
+.aside ul{
+    list-style-type:none;
+    font-size:90%;
+    margin:0;
+    padding:0;
+    line-height:1.5;
+}
+
+.aside ul li{
+    padding-left:15px;
+    background-image:url("../img/header.jpg");
+    background-repeat:no-repeat;
+    background-position:left center;
+}
+
+.ad{
+    margin-top:10px;
+}
+
+.ad img{
+    border:0;
+}
+
+.aside{
+    float:left;
+    width:180px;
+    background-color:#6eb201;
+}
+
+.footer{
+    clear:both;
+}
+
+.header , .nav{
+    padding:0 10px;
+}
